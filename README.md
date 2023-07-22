@@ -24,11 +24,11 @@ Apple_plot = StockPlot('AAPL')
 
 Apple_plot.plot_stock()
 ```
-![1](images/AAPL_price.png)
+![1](https://github.com/sl-huo/easystockplot/blob/main/images/AAPL_price.png?raw=true)
 
 ### Plott the daily stock return over the past year
 ```python
 Apple_plot.plot_stock_return()
 ```
-![2](images/AAPL_return.png)
+![2](https://github.com/sl-huo/easystockplot/blob/main/images/AAPL_return.png?raw=true)
 
